@@ -2,7 +2,7 @@
 
 Ứng dụng trực quan hóa trò chơi xếp hình trượt (Sliding Puzzle) lưới $3\times3$ và $4\times4$. Dự án tập trung vào việc đối sánh hiệu năng định lượng và minh họa cây không gian tìm kiếm giữa các giải thuật AI thông dụng.
 
-🚀 **Trải Nghiệm Trực Tuyến:** [Hugging Face Spaces - nhapmonAI]([https://huggingface.co/spaces/](https://huggingface.co/spaces/phanh1234556/nhapmonAI))
+🚀 **Trải Nghiệm Trực Tuyến:** [Hugging Face Spaces - nhapmonAI](https://huggingface.co/spaces/phanh1234556/nhapmonAI)
 
 ---
 
